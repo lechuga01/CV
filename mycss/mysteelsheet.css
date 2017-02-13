@@ -1,0 +1,20 @@
+.titu{
+    padding-top: 5px;
+}
+body{
+    background-image: url(../img/fondogatos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.vacio{
+    width: 100%;
+    height: 400px;
+}
+
+.datosTablas {
+    padding: 10px;
+    border:4px solid #7e7e7e;
+    text-align: center;
+}
+
