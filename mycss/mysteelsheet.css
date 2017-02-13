@@ -1,10 +1,14 @@
 .titu{
     padding-top: 5px;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     background-image: url(../img/fondogatos.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     background-attachment: fixed;
 }
 .vacio{
